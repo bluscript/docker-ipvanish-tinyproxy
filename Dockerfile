@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="mattias.rundqvist@icloud.com"
+LABEL maintainer="it+docker@fuerst.dev"
 
 WORKDIR /app
 
